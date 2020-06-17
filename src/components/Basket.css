@@ -1,0 +1,21 @@
+.btn-danger {
+  background-color: rgb(91, 91, 255);
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.btn {
+  background-color: rgb(241, 86, 86);
+  border-radius: 50px;
+}
+
+.btn:hover {
+  color: rgb(104, 103, 103);
+  transition: 0.4s ease;
+}
+
+.body {
+  background-color: rgb(91, 91, 255);
+  color: white;;
+  border: 1px solid black;
+}

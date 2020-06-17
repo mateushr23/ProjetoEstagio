@@ -1,0 +1,23 @@
+.button .btn {
+  background-color: rgb(91, 91, 255);
+  color: white;
+  border-radius: 10px;
+}
+
+.button:hover .btnn {
+  color: rgb(175, 170, 170);
+  transition: 0.4s ease;
+}
+.thumbnail {
+  background-color: white;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.product.title{
+  color: black;
+}
+p{
+  color: black;
+}
+
